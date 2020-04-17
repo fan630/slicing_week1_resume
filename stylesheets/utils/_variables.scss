@@ -1,0 +1,8 @@
+$spacing-base: 24px;
+$font-size-base:16px;
+
+.clearfix:after{
+    content: "";     
+    clear: both; 
+    display: block;
+}
